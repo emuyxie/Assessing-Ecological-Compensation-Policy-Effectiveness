@@ -1,5 +1,6 @@
 # Assessing-Ecological-Compensation-Policy-Effectiveness
 Assessing Ecological Compensation Policy Effectiveness: A Case Study in the Inner Mongolia Autonomous Region, China
+
 Yiwen Lu 1, Xining Yang 2 and Yichun Xie 2,*
 1	Shanghai Ecological Forecasting and Remote Sensing Center, Shanghai 200030, China
 2	Department of Geography and Geology, Eastern Michigan University, Ypsilanti, Michigan 48197, USA
